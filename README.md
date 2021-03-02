@@ -1,5 +1,5 @@
 # Autonomous Lane Keeping using Model Predictive Control 
-![Autonomous_lane_keeping_model](https://user-images.githubusercontent.com/79725511/109576547-f86b7200-7ac1-11eb-8541-6421d0072e8e.png)
+![Autonomous_lane_keeping_model](https://user-images.githubusercontent.com/79725511/109578820-decc2980-7ac5-11eb-8a05-625c56feb1a8.jpg)
 > A quick snap of the System Model. In the above diagram, u1 and u2 are the inputs of the longitudinal acceleration and steering angle to the “ego vehicle model” block. The outputs y1, y2, and y3 are the longitudinal velocity, lateral velocity, and the yaw angle rate respectively. The error dynamics are referenced in the variables e1 and e2. These variables indicate the lateral deviation and the relative yaw angle respectively.
 
 ---
